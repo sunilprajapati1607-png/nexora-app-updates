@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.47.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.47.0/Nexora-Setup-4.47.0.exe",
-    "sha256": "9f91a23945b28be37051e3ef4baae23b92002800150eded8967f480a0bc7d354",
-    "sizeBytes": 82648595,
-    "notes": "Read-only service and update addresses (hold N to open), the action bar's More always on screen with a gap at both ends, Settings > Help in reading order with Updates and Contact as launchers, and a collapsed menu whose groups fly out",
-    "publishedAt": "2026-09-20T15:28:15Z"
+    "version": "4.47.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.47.1/Nexora-Setup-4.47.1.exe",
+    "sha256": "02e0088b07c62f7f7b3ddd38e47b2deadbb773a4aa84566da10c966bf1344efa",
+    "sizeBytes": 82649684,
+    "notes": "Nexora now announces a published build in the company conversation and looks for it at once; the quiet check runs every half hour and opens the update window on first sighting; More sits right after the last action and its menu is on top of the page; the service keeps every tag kind.",
+    "publishedAt": "2026-09-20T16:10:33Z"
   },
   "local": {
-    "version": "3.47.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.47.0/Nexora-Setup-3.47.0.exe",
-    "sha256": "1d291eaed0386f11715d35030a78a6e689631a7fd998426b619d0f4302462728",
-    "sizeBytes": 82648720,
-    "notes": "Read-only service and update addresses (hold N to open), the action bar's More always on screen with a gap at both ends, Settings > Help in reading order with Updates and Contact as launchers, and a collapsed menu whose groups fly out",
-    "publishedAt": "2026-09-20T15:28:15Z"
+    "version": "3.47.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.47.1/Nexora-Setup-3.47.1.exe",
+    "sha256": "41dc32fe8ce6f72c9c26fdb80095b6bbf46f2c8cb14825b0be6e822fde65a290",
+    "sizeBytes": 82649726,
+    "notes": "Nexora now announces a published build in the company conversation and looks for it at once; the quiet check runs every half hour and opens the update window on first sighting; More sits right after the last action and its menu is on top of the page; the service keeps every tag kind.",
+    "publishedAt": "2026-09-20T16:10:33Z"
   }
 }
