@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.49.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.49.0/Nexora-Setup-4.49.0.exe",
-    "sha256": "1a71e1acf09674175e65ad69d25bbdfce189b2075205eb3cf6568c1be24b7e20",
-    "sizeBytes": 82662489,
-    "notes": "Calculate BOM: nothing goes to the service until the floating Calculate BOM button is pressed (drag it anywhere; Auto restores costing on every change). An earlier stage that carries BOPP takes the BOPP share; BOPP-to-metallised adhesive lamination suggested from the three GSM shares; metres for any film spelling. Chat: Show one person, Clear one person. The register moved to BOM Records. Every table sorts on its headers. A golden-arrow window opened over another comes back to it on Close.",
-    "publishedAt": "2026-09-20T21:10:30Z"
+    "version": "4.49.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.49.1/Nexora-Setup-4.49.1.exe",
+    "sha256": "3e7881a5a1d616253fdac61c1504b613914fd70168294c024b90bcfa8356e6e3",
+    "sizeBytes": 82663025,
+    "notes": "The BOM is always on screen: opening a bag costs it once by itself; only the changes you make after that wait for Calculate BOM. The register is gone (BOM Records is the list). The button is smaller, in the app's colour.",
+    "publishedAt": "2026-09-20T21:39:38Z"
   },
   "local": {
-    "version": "3.49.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.49.0/Nexora-Setup-3.49.0.exe",
-    "sha256": "5eb50123d1f853167b704ebfd4c0bccfc63c80beba94bca150ba5e39116c88c9",
-    "sizeBytes": 82662484,
-    "notes": "Calculate BOM: nothing goes to the service until the floating Calculate BOM button is pressed (drag it anywhere; Auto restores costing on every change). An earlier stage that carries BOPP takes the BOPP share; BOPP-to-metallised adhesive lamination suggested from the three GSM shares; metres for any film spelling. Chat: Show one person, Clear one person. The register moved to BOM Records. Every table sorts on its headers. A golden-arrow window opened over another comes back to it on Close.",
-    "publishedAt": "2026-09-20T21:10:30Z"
+    "version": "3.49.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.49.1/Nexora-Setup-3.49.1.exe",
+    "sha256": "f6d4cb22520141ca8593ab176e8e248fbfe9c49903d6255e51d59b1b8f950d9a",
+    "sizeBytes": 82663299,
+    "notes": "The BOM is always on screen: opening a bag costs it once by itself; only the changes you make after that wait for Calculate BOM. The register is gone (BOM Records is the list). The button is smaller, in the app's colour.",
+    "publishedAt": "2026-09-20T21:39:38Z"
   }
 }
