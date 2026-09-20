@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.48.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.48.0/Nexora-Setup-4.48.0.exe",
-    "sha256": "a0084cd6bf136ff1448e3806ac93b03f5e0b8f2408f3adc36b719bdb6d6dc07d",
-    "sizeBytes": 82654529,
-    "notes": "Standard and Pro plans (what each carries is set in the console; a demo has everything); access window by window with Read / Write / Delete / Full; BOM Records with every earlier save as a version; History is now Calculation Records; a count bubble on Chat and Notes; right-click opens the action bar at the pointer.",
-    "publishedAt": "2026-09-20T18:10:18Z"
+    "version": "4.48.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.48.1/Nexora-Setup-4.48.1.exe",
+    "sha256": "1fe1ad48a7b972e94d3dc0249f898a42bfc6e68f90e9cf182c3bfdd7d4d38ee5",
+    "sizeBytes": 82656364,
+    "notes": "The update download now shows its progress and resumes after a dropped connection; the installer lives in a temporary folder and removes itself; seats are separate from the plan; seven more plan features; the tools sit last on the action bar; BOM Records golden arrow fixed and Calculation Records second in its group; every person's name is a chip in their own colour on every table.",
+    "publishedAt": "2026-09-20T19:37:40Z"
   },
   "local": {
-    "version": "3.48.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.48.0/Nexora-Setup-3.48.0.exe",
-    "sha256": "e50d844c64b2c76a3f0a4ce901edfe61dd06b7d7bf1fe74bab8e45afca66ff8a",
-    "sizeBytes": 82654434,
-    "notes": "Standard and Pro plans (what each carries is set in the console; a demo has everything); access window by window with Read / Write / Delete / Full; BOM Records with every earlier save as a version; History is now Calculation Records; a count bubble on Chat and Notes; right-click opens the action bar at the pointer.",
-    "publishedAt": "2026-09-20T18:10:18Z"
+    "version": "3.48.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.48.1/Nexora-Setup-3.48.1.exe",
+    "sha256": "2ed465669a4b85c4d3ccb6bea4a9c1d3de5d9ce2764a9c47bdca6c34e2bf523d",
+    "sizeBytes": 82656232,
+    "notes": "The update download now shows its progress and resumes after a dropped connection; the installer lives in a temporary folder and removes itself; seats are separate from the plan; seven more plan features; the tools sit last on the action bar; BOM Records golden arrow fixed and Calculation Records second in its group; every person's name is a chip in their own colour on every table.",
+    "publishedAt": "2026-09-20T19:37:40Z"
   }
 }
