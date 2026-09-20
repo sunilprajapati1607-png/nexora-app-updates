@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.47.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.47.1/Nexora-Setup-4.47.1.exe",
-    "sha256": "02e0088b07c62f7f7b3ddd38e47b2deadbb773a4aa84566da10c966bf1344efa",
-    "sizeBytes": 82649684,
-    "notes": "Nexora now announces a published build in the company conversation and looks for it at once; the quiet check runs every half hour and opens the update window on first sighting; More sits right after the last action and its menu is on top of the page; the service keeps every tag kind.",
-    "publishedAt": "2026-09-20T16:10:33Z"
+    "version": "4.48.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.48.0/Nexora-Setup-4.48.0.exe",
+    "sha256": "a0084cd6bf136ff1448e3806ac93b03f5e0b8f2408f3adc36b719bdb6d6dc07d",
+    "sizeBytes": 82654529,
+    "notes": "Standard and Pro plans (what each carries is set in the console; a demo has everything); access window by window with Read / Write / Delete / Full; BOM Records with every earlier save as a version; History is now Calculation Records; a count bubble on Chat and Notes; right-click opens the action bar at the pointer.",
+    "publishedAt": "2026-09-20T18:10:18Z"
   },
   "local": {
-    "version": "3.47.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.47.1/Nexora-Setup-3.47.1.exe",
-    "sha256": "41dc32fe8ce6f72c9c26fdb80095b6bbf46f2c8cb14825b0be6e822fde65a290",
-    "sizeBytes": 82649726,
-    "notes": "Nexora now announces a published build in the company conversation and looks for it at once; the quiet check runs every half hour and opens the update window on first sighting; More sits right after the last action and its menu is on top of the page; the service keeps every tag kind.",
-    "publishedAt": "2026-09-20T16:10:33Z"
+    "version": "3.48.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.48.0/Nexora-Setup-3.48.0.exe",
+    "sha256": "e50d844c64b2c76a3f0a4ce901edfe61dd06b7d7bf1fe74bab8e45afca66ff8a",
+    "sizeBytes": 82654434,
+    "notes": "Standard and Pro plans (what each carries is set in the console; a demo has everything); access window by window with Read / Write / Delete / Full; BOM Records with every earlier save as a version; History is now Calculation Records; a count bubble on Chat and Notes; right-click opens the action bar at the pointer.",
+    "publishedAt": "2026-09-20T18:10:18Z"
   }
 }
