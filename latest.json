@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.48.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.48.1/Nexora-Setup-4.48.1.exe",
-    "sha256": "1fe1ad48a7b972e94d3dc0249f898a42bfc6e68f90e9cf182c3bfdd7d4d38ee5",
-    "sizeBytes": 82656364,
-    "notes": "The update download now shows its progress and resumes after a dropped connection; the installer lives in a temporary folder and removes itself; seats are separate from the plan; seven more plan features; the tools sit last on the action bar; BOM Records golden arrow fixed and Calculation Records second in its group; every person's name is a chip in their own colour on every table.",
-    "publishedAt": "2026-09-20T19:37:40Z"
+    "version": "4.49.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.49.0/Nexora-Setup-4.49.0.exe",
+    "sha256": "1a71e1acf09674175e65ad69d25bbdfce189b2075205eb3cf6568c1be24b7e20",
+    "sizeBytes": 82662489,
+    "notes": "Calculate BOM: nothing goes to the service until the floating Calculate BOM button is pressed (drag it anywhere; Auto restores costing on every change). An earlier stage that carries BOPP takes the BOPP share; BOPP-to-metallised adhesive lamination suggested from the three GSM shares; metres for any film spelling. Chat: Show one person, Clear one person. The register moved to BOM Records. Every table sorts on its headers. A golden-arrow window opened over another comes back to it on Close.",
+    "publishedAt": "2026-09-20T21:10:30Z"
   },
   "local": {
-    "version": "3.48.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.48.1/Nexora-Setup-3.48.1.exe",
-    "sha256": "2ed465669a4b85c4d3ccb6bea4a9c1d3de5d9ce2764a9c47bdca6c34e2bf523d",
-    "sizeBytes": 82656232,
-    "notes": "The update download now shows its progress and resumes after a dropped connection; the installer lives in a temporary folder and removes itself; seats are separate from the plan; seven more plan features; the tools sit last on the action bar; BOM Records golden arrow fixed and Calculation Records second in its group; every person's name is a chip in their own colour on every table.",
-    "publishedAt": "2026-09-20T19:37:40Z"
+    "version": "3.49.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.49.0/Nexora-Setup-3.49.0.exe",
+    "sha256": "5eb50123d1f853167b704ebfd4c0bccfc63c80beba94bca150ba5e39116c88c9",
+    "sizeBytes": 82662484,
+    "notes": "Calculate BOM: nothing goes to the service until the floating Calculate BOM button is pressed (drag it anywhere; Auto restores costing on every change). An earlier stage that carries BOPP takes the BOPP share; BOPP-to-metallised adhesive lamination suggested from the three GSM shares; metres for any film spelling. Chat: Show one person, Clear one person. The register moved to BOM Records. Every table sorts on its headers. A golden-arrow window opened over another comes back to it on Close.",
+    "publishedAt": "2026-09-20T21:10:30Z"
   }
 }
