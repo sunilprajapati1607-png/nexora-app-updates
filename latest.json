@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.49.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.49.1/Nexora-Setup-4.49.1.exe",
-    "sha256": "3e7881a5a1d616253fdac61c1504b613914fd70168294c024b90bcfa8356e6e3",
-    "sizeBytes": 82663025,
-    "notes": "The BOM is always on screen: opening a bag costs it once by itself; only the changes you make after that wait for Calculate BOM. The register is gone (BOM Records is the list). The button is smaller, in the app's colour.",
-    "publishedAt": "2026-09-20T21:39:38Z"
+    "version": "4.49.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.49.2/Nexora-Setup-4.49.2.exe",
+    "sha256": "c87dad756fd32092b5dec36ef4c957ccd16f417a7f82877407a2a2de392e81ff",
+    "sizeBytes": 82664161,
+    "notes": "the button that did nothing, and where it belongs",
+    "publishedAt": "2026-09-21T05:11:28Z"
   },
   "local": {
-    "version": "3.49.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.49.1/Nexora-Setup-3.49.1.exe",
-    "sha256": "f6d4cb22520141ca8593ab176e8e248fbfe9c49903d6255e51d59b1b8f950d9a",
-    "sizeBytes": 82663299,
-    "notes": "The BOM is always on screen: opening a bag costs it once by itself; only the changes you make after that wait for Calculate BOM. The register is gone (BOM Records is the list). The button is smaller, in the app's colour.",
-    "publishedAt": "2026-09-20T21:39:38Z"
+    "version": "3.49.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.49.2/Nexora-Setup-3.49.2.exe",
+    "sha256": "8ece027621a0bc6be29907323515d7c9e430511d863712d6589a5e935fde244e",
+    "sizeBytes": 82664289,
+    "notes": "the button that did nothing, and where it belongs",
+    "publishedAt": "2026-09-21T05:11:28Z"
   }
 }
