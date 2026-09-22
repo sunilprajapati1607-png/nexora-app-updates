@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.55.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.55.0/Nexora-Setup-4.55.0.exe",
-    "sha256": "9854c22ce53b95231b303edd6233695037a639dfecbba77d3513a58b190e3213",
-    "sizeBytes": 82711097,
-    "notes": "the parts come together, the software says why, and the trade gets its own sum",
-    "publishedAt": "2026-09-22T10:13:41Z"
+    "version": "4.55.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.55.1/Nexora-Setup-4.55.1.exe",
+    "sha256": "4c9bada76e731056b7c78e26b3e2d3f4bfbbfc5c9c5c6f16ca0eb947db3211a3",
+    "sizeBytes": 82712904,
+    "notes": "the right button, the window's own buttons, and Easy Cost says what it is",
+    "publishedAt": "2026-09-22T11:43:56Z"
   },
   "local": {
-    "version": "3.55.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.55.0/Nexora-Setup-3.55.0.exe",
-    "sha256": "08f77970f0e596f53510ab982152ba7b4f99cf786b8ec1112ac604d8f700cdc2",
-    "sizeBytes": 82711163,
-    "notes": "the parts come together, the software says why, and the trade gets its own sum",
-    "publishedAt": "2026-09-22T10:13:41Z"
+    "version": "3.55.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.55.1/Nexora-Setup-3.55.1.exe",
+    "sha256": "6e2ab12f0deca83e74a2766cb80b0564e217336a5f20acee5ca69cdbdbc1e7a8",
+    "sizeBytes": 82712925,
+    "notes": "the right button, the window's own buttons, and Easy Cost says what it is",
+    "publishedAt": "2026-09-22T11:43:56Z"
   }
 }
