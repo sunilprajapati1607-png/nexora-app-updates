@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.55.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.55.1/Nexora-Setup-4.55.1.exe",
-    "sha256": "4c9bada76e731056b7c78e26b3e2d3f4bfbbfc5c9c5c6f16ca0eb947db3211a3",
-    "sizeBytes": 82712904,
-    "notes": "the right button, the window's own buttons, and Easy Cost says what it is",
-    "publishedAt": "2026-09-22T11:43:56Z"
+    "version": "4.56.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.56.0/Nexora-Setup-4.56.0.exe",
+    "sha256": "3fc19244509b864c361734dd784c01495d75bbb1505b57ad331d08142fa4a686",
+    "sizeBytes": 82726681,
+    "notes": "where things live, what a quotation left, and the first week",
+    "publishedAt": "2026-09-22T20:42:07Z"
   },
   "local": {
-    "version": "3.55.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.55.1/Nexora-Setup-3.55.1.exe",
-    "sha256": "6e2ab12f0deca83e74a2766cb80b0564e217336a5f20acee5ca69cdbdbc1e7a8",
-    "sizeBytes": 82712925,
-    "notes": "the right button, the window's own buttons, and Easy Cost says what it is",
-    "publishedAt": "2026-09-22T11:43:56Z"
+    "version": "3.56.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.56.0/Nexora-Setup-3.56.0.exe",
+    "sha256": "f06405df195c8ef3c40a944b4f0ed0e8b89baaf934a1906986f2978a3c43b690",
+    "sizeBytes": 82726706,
+    "notes": "where things live, what a quotation left, and the first week",
+    "publishedAt": "2026-09-22T20:42:07Z"
   }
 }
