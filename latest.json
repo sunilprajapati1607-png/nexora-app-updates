@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.54.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.54.0/Nexora-Setup-4.54.0.exe",
-    "sha256": "4171e16142dab453b7b2f1f1c62e24edfc7f1189a0bedad824b7648a8f6bd1b9",
-    "sizeBytes": 82686815,
-    "notes": "the plant decides, and the plant is remembered",
-    "publishedAt": "2026-09-21T20:01:36Z"
+    "version": "4.55.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.55.0/Nexora-Setup-4.55.0.exe",
+    "sha256": "9854c22ce53b95231b303edd6233695037a639dfecbba77d3513a58b190e3213",
+    "sizeBytes": 82711097,
+    "notes": "the parts come together, the software says why, and the trade gets its own sum",
+    "publishedAt": "2026-09-22T10:13:41Z"
   },
   "local": {
-    "version": "3.54.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.54.0/Nexora-Setup-3.54.0.exe",
-    "sha256": "b12c6958bfb56bd588dc7d5e122bbd0388617d87a0876bc15d44f16a8587564a",
-    "sizeBytes": 82686710,
-    "notes": "the plant decides, and the plant is remembered",
-    "publishedAt": "2026-09-21T20:01:36Z"
+    "version": "3.55.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.55.0/Nexora-Setup-3.55.0.exe",
+    "sha256": "08f77970f0e596f53510ab982152ba7b4f99cf786b8ec1112ac604d8f700cdc2",
+    "sizeBytes": 82711163,
+    "notes": "the parts come together, the software says why, and the trade gets its own sum",
+    "publishedAt": "2026-09-22T10:13:41Z"
   }
 }
