@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.58.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.58.2/Nexora-Setup-4.58.2.exe",
-    "sha256": "4cfa85b778bb36622760c786e29c81dfc832f6a885c724a5d9eea17e9f35c778",
-    "sizeBytes": 159057892,
-    "notes": "still while you type, and 32-bit too",
-    "publishedAt": "2026-09-23T15:42:02Z"
+    "version": "4.58.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.58.3/Nexora-Setup-4.58.3.exe",
+    "sha256": "83a93490493c2d831b4076be2901d42f58fb3c873effe7180dfe9980fc4fb43f",
+    "sizeBytes": 82739514,
+    "notes": "64-bit again, a download that gets there, and window buttons that stay buttons",
+    "publishedAt": "2026-09-23T16:52:16Z"
   },
   "local": {
-    "version": "3.58.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.58.2/Nexora-Setup-3.58.2.exe",
-    "sha256": "f34982aa69c67504fe3a96eee890e3bfda2c1f3968c0816144685b454b8e7cbd",
-    "sizeBytes": 159057915,
-    "notes": "still while you type, and 32-bit too",
-    "publishedAt": "2026-09-23T15:42:03Z"
+    "version": "3.58.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.58.3/Nexora-Setup-3.58.3.exe",
+    "sha256": "5001f17dfdd03a8c86fc5fffe2f697fe2ab66117a60d73f169ca5720c250221e",
+    "sizeBytes": 82739612,
+    "notes": "64-bit again, a download that gets there, and window buttons that stay buttons",
+    "publishedAt": "2026-09-23T16:52:16Z"
   }
 }
