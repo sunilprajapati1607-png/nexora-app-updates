@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.66.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.1/Nexora-Setup-4.66.1.exe",
-    "sha256": "ef25ae748147e0760044240dfe1b5a8f9385dac3d87c40276532c0d34bd6cd6b",
-    "sizeBytes": 82807323,
-    "notes": "4.66.1: the signed-in person is who the window is (no more built-in Administrator rights); a person given the whole company receives its older records; dashboard dials; the company panel stays where it is; hints for every new person.",
-    "publishedAt": "2026-09-24T20:51:40Z"
+    "version": "4.66.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.2/Nexora-Setup-4.66.2.exe",
+    "sha256": "27e3fc497caeb8c4c9cf746894ee7c309d6123711a011466382632ee39c78a17",
+    "sizeBytes": 82809706,
+    "notes": "4.66.2: the calculation sheet carries cut length, every part's size, denier and GPM; Print opens Nexora's own dialog with the page beside the printer and the copies.",
+    "publishedAt": "2026-09-24T21:37:32Z"
   },
   "local": {
-    "version": "3.66.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.1/Nexora-Setup-3.66.1.exe",
-    "sha256": "8726ddfc644af4f6b1c2785bd234eec334787c11cea6ba2ade421cba61a31b39",
-    "sizeBytes": 82807374,
-    "notes": "4.66.1: the signed-in person is who the window is (no more built-in Administrator rights); a person given the whole company receives its older records; dashboard dials; the company panel stays where it is; hints for every new person.",
-    "publishedAt": "2026-09-24T20:51:41Z"
+    "version": "3.66.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.2/Nexora-Setup-3.66.2.exe",
+    "sha256": "a3a66379abf6e4d789e7923d36955dc084ae5ee00cef96f6f5cdaaaece87efa8",
+    "sizeBytes": 82809679,
+    "notes": "4.66.2: the calculation sheet carries cut length, every part's size, denier and GPM; Print opens Nexora's own dialog with the page beside the printer and the copies.",
+    "publishedAt": "2026-09-24T21:37:32Z"
   }
 }
