@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.65.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.65.0/Nexora-Setup-4.65.0.exe",
-    "sha256": "337e63fa31c25284cc7e4a5ea0878a0a388e158f03ebb890c7b2e96be8470690",
-    "sizeBytes": 82787272,
-    "notes": "Cost access per user, features per user, BOPP micron and a summary table in Target Cost, company panel in the title bar, new dashboard",
-    "publishedAt": "2026-09-24T16:48:17Z"
+    "version": "4.65.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.65.1/Nexora-Setup-4.65.1.exe",
+    "sha256": "f63f9401f659820e4873cf4f0ffd3082fab3f6320e2c202e85f801599968ef8c",
+    "sizeBytes": 82791205,
+    "notes": "4.65.1: Target Cost stays inside the weight band; Compare, Price Impact and Target Cost print from the action bar; every sheet prints whole with its signatures; part-wise BOM figures explained; waste kg in the material totals; Software Manual in Gujarati.",
+    "publishedAt": "2026-09-24T18:02:44Z"
   },
   "local": {
-    "version": "3.65.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.65.0/Nexora-Setup-3.65.0.exe",
-    "sha256": "dea1e92a03da95ef7f681784ec23afedaf424bb7b641beedde64013b165aa55a",
-    "sizeBytes": 82787214,
-    "notes": "Cost access per user, features per user, BOPP micron and a summary table in Target Cost, company panel in the title bar, new dashboard",
-    "publishedAt": "2026-09-24T16:48:17Z"
+    "version": "3.65.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.65.1/Nexora-Setup-3.65.1.exe",
+    "sha256": "983b4fce091a041cfec3d3bc9144f721c759cd059351b197b397b616f14a5ad5",
+    "sizeBytes": 82791263,
+    "notes": "4.65.1: Target Cost stays inside the weight band; Compare, Price Impact and Target Cost print from the action bar; every sheet prints whole with its signatures; part-wise BOM figures explained; waste kg in the material totals; Software Manual in Gujarati.",
+    "publishedAt": "2026-09-24T18:02:44Z"
   }
 }
