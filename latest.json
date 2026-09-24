@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.66.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.0/Nexora-Setup-4.66.0.exe",
-    "sha256": "2dc73ad98af2efd1f610f6380a7274fae93a5eac35f90eb876d30882c6671191",
-    "sizeBytes": 82805220,
-    "notes": "4.66.0: shared masters with administrator approvals in chat; money hidden unless given; company name locked to the licence; quotations sync to the administrator; chat messages never lost; own resource types and per-any-number-of-bags charges; module-wise access.",
-    "publishedAt": "2026-09-24T20:00:47Z"
+    "version": "4.66.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.1/Nexora-Setup-4.66.1.exe",
+    "sha256": "ef25ae748147e0760044240dfe1b5a8f9385dac3d87c40276532c0d34bd6cd6b",
+    "sizeBytes": 82807323,
+    "notes": "4.66.1: the signed-in person is who the window is (no more built-in Administrator rights); a person given the whole company receives its older records; dashboard dials; the company panel stays where it is; hints for every new person.",
+    "publishedAt": "2026-09-24T20:51:40Z"
   },
   "local": {
-    "version": "3.66.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.0/Nexora-Setup-3.66.0.exe",
-    "sha256": "e0856b619f05936da532d7956e33aa477f5e3f37f2be39ec9725ee0cbe5a37a0",
-    "sizeBytes": 82805199,
-    "notes": "4.66.0: shared masters with administrator approvals in chat; money hidden unless given; company name locked to the licence; quotations sync to the administrator; chat messages never lost; own resource types and per-any-number-of-bags charges; module-wise access.",
-    "publishedAt": "2026-09-24T20:00:47Z"
+    "version": "3.66.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.1/Nexora-Setup-3.66.1.exe",
+    "sha256": "8726ddfc644af4f6b1c2785bd234eec334787c11cea6ba2ade421cba61a31b39",
+    "sizeBytes": 82807374,
+    "notes": "4.66.1: the signed-in person is who the window is (no more built-in Administrator rights); a person given the whole company receives its older records; dashboard dials; the company panel stays where it is; hints for every new person.",
+    "publishedAt": "2026-09-24T20:51:41Z"
   }
 }
