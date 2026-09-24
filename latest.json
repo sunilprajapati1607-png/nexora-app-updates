@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.60.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.60.0/Nexora-Setup-4.60.0.exe",
-    "sha256": "c6b922099ba05b1641acc75be6533d950ffa688c934c6c5b2658bcf5ccc8797f",
-    "sizeBytes": 82759053,
-    "notes": "CC % and the tape / coating recipe on the calculation",
-    "publishedAt": "2026-09-24T06:26:00Z"
+    "version": "4.64.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.64.0/Nexora-Setup-4.64.0.exe",
+    "sha256": "494345f3e6199bddc778841350bde3145a1ca4b556bb6a2c05c62f0f64e5fb10",
+    "sizeBytes": 82778254,
+    "notes": "Nexora 4.64.0",
+    "publishedAt": "2026-09-24T11:45:21Z"
   },
   "local": {
-    "version": "3.60.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.60.0/Nexora-Setup-3.60.0.exe",
-    "sha256": "c93828bf107a02eae7a82f3461ad5b368f97a1506dfef034fb108d38e6815fd2",
-    "sizeBytes": 82759039,
-    "notes": "CC % and the tape / coating recipe on the calculation",
-    "publishedAt": "2026-09-24T06:26:00Z"
+    "version": "3.64.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.64.0/Nexora-Setup-3.64.0.exe",
+    "sha256": "c87ee42dd6cd06e26e1203944afe450ede240bb1642605f106cfcc190c3219e8",
+    "sizeBytes": 82778335,
+    "notes": "Nexora 4.64.0",
+    "publishedAt": "2026-09-24T11:45:21Z"
   }
 }
