@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.65.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.65.1/Nexora-Setup-4.65.1.exe",
-    "sha256": "f63f9401f659820e4873cf4f0ffd3082fab3f6320e2c202e85f801599968ef8c",
-    "sizeBytes": 82791205,
-    "notes": "4.65.1: Target Cost stays inside the weight band; Compare, Price Impact and Target Cost print from the action bar; every sheet prints whole with its signatures; part-wise BOM figures explained; waste kg in the material totals; Software Manual in Gujarati.",
-    "publishedAt": "2026-09-24T18:02:44Z"
+    "version": "4.66.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.0/Nexora-Setup-4.66.0.exe",
+    "sha256": "2dc73ad98af2efd1f610f6380a7274fae93a5eac35f90eb876d30882c6671191",
+    "sizeBytes": 82805220,
+    "notes": "4.66.0: shared masters with administrator approvals in chat; money hidden unless given; company name locked to the licence; quotations sync to the administrator; chat messages never lost; own resource types and per-any-number-of-bags charges; module-wise access.",
+    "publishedAt": "2026-09-24T20:00:47Z"
   },
   "local": {
-    "version": "3.65.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.65.1/Nexora-Setup-3.65.1.exe",
-    "sha256": "983b4fce091a041cfec3d3bc9144f721c759cd059351b197b397b616f14a5ad5",
-    "sizeBytes": 82791263,
-    "notes": "4.65.1: Target Cost stays inside the weight band; Compare, Price Impact and Target Cost print from the action bar; every sheet prints whole with its signatures; part-wise BOM figures explained; waste kg in the material totals; Software Manual in Gujarati.",
-    "publishedAt": "2026-09-24T18:02:44Z"
+    "version": "3.66.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.0/Nexora-Setup-3.66.0.exe",
+    "sha256": "e0856b619f05936da532d7956e33aa477f5e3f37f2be39ec9725ee0cbe5a37a0",
+    "sizeBytes": 82805199,
+    "notes": "4.66.0: shared masters with administrator approvals in chat; money hidden unless given; company name locked to the licence; quotations sync to the administrator; chat messages never lost; own resource types and per-any-number-of-bags charges; module-wise access.",
+    "publishedAt": "2026-09-24T20:00:47Z"
   }
 }
