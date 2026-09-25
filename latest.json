@@ -4,15 +4,15 @@
     "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.5/Nexora-Setup-4.66.5.exe",
     "sha256": "ccdce3539e1e9c7b62f01da554a081c4a5b9be292df4261886d75952eb616d3f",
     "sizeBytes": 82814420,
-    "notes": "BOM Excel: a Section-wise sheet beside the costed one — each section's raw material by weight and cost; without the cost right, no cost in the file at all. Target Cost weighs under the licence.",
-    "publishedAt": "2026-09-25T07:24:54Z"
+    "notes": "4.66.5: BOM Excel gains a Section-wise sheet beside the costed one (each section's raw material by weight and cost; without the cost right, no cost in the file at all); Target Cost weighs under the licence.",
+    "publishedAt": "2026-09-25T07:25:23Z"
   },
   "local": {
     "version": "3.66.5",
     "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.5/Nexora-Setup-3.66.5.exe",
     "sha256": "1e5152a4887bd771e2fc6fbbd25000d24ebe7d0db4a1aebb73610c85fed756bc",
     "sizeBytes": 82814385,
-    "notes": "BOM Excel: a Section-wise sheet beside the costed one — each section's raw material by weight and cost; without the cost right, no cost in the file at all. Target Cost weighs under the licence.",
-    "publishedAt": "2026-09-25T07:24:54Z"
+    "notes": "4.66.5: BOM Excel gains a Section-wise sheet beside the costed one (each section's raw material by weight and cost; without the cost right, no cost in the file at all); Target Cost weighs under the licence.",
+    "publishedAt": "2026-09-25T07:25:23Z"
   }
 }
