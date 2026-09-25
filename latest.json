@@ -5,7 +5,7 @@
     "sha256": "27e3fc497caeb8c4c9cf746894ee7c309d6123711a011466382632ee39c78a17",
     "sizeBytes": 82809706,
     "notes": "4.66.2: the calculation sheet carries cut length, every part's size, denier and GPM; Print opens Nexora's own dialog with the page beside the printer and the copies.",
-    "publishedAt": "2026-09-24T21:37:32Z"
+    "publishedAt": "2026-09-25T02:35:05Z"
   },
   "local": {
     "version": "3.66.2",
@@ -13,6 +13,6 @@
     "sha256": "a3a66379abf6e4d789e7923d36955dc084ae5ee00cef96f6f5cdaaaece87efa8",
     "sizeBytes": 82809679,
     "notes": "4.66.2: the calculation sheet carries cut length, every part's size, denier and GPM; Print opens Nexora's own dialog with the page beside the printer and the copies.",
-    "publishedAt": "2026-09-24T21:37:32Z"
+    "publishedAt": "2026-09-25T02:35:05Z"
   }
 }
