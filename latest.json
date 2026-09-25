@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.66.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.2/Nexora-Setup-4.66.2.exe",
-    "sha256": "27e3fc497caeb8c4c9cf746894ee7c309d6123711a011466382632ee39c78a17",
-    "sizeBytes": 82809706,
-    "notes": "4.66.2: the calculation sheet carries cut length, every part's size, denier and GPM; Print opens Nexora's own dialog with the page beside the printer and the copies.",
-    "publishedAt": "2026-09-25T02:35:05Z"
+    "version": "4.66.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.3/Nexora-Setup-4.66.3.exe",
+    "sha256": "28071f4d59b7983058214b90cd41251683430e6de450f9282bb3773e06dbdef4",
+    "sizeBytes": 82811207,
+    "notes": "4.66.3: one demo per mobile number; Nexora website in About and the company panel; company name stays centred; no coating, no laminated GPM; one Weight Breakdown with sizes; the sidebar holds still.",
+    "publishedAt": "2026-09-25T05:38:39Z"
   },
   "local": {
-    "version": "3.66.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.2/Nexora-Setup-3.66.2.exe",
-    "sha256": "a3a66379abf6e4d789e7923d36955dc084ae5ee00cef96f6f5cdaaaece87efa8",
-    "sizeBytes": 82809679,
-    "notes": "4.66.2: the calculation sheet carries cut length, every part's size, denier and GPM; Print opens Nexora's own dialog with the page beside the printer and the copies.",
-    "publishedAt": "2026-09-25T02:35:05Z"
+    "version": "3.66.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.3/Nexora-Setup-3.66.3.exe",
+    "sha256": "c129a03d51b35cfb7469fe21f3ce67d9535b9f2434297052df8c48da7a99aba3",
+    "sizeBytes": 82811243,
+    "notes": "4.66.3: one demo per mobile number; Nexora website in About and the company panel; company name stays centred; no coating, no laminated GPM; one Weight Breakdown with sizes; the sidebar holds still.",
+    "publishedAt": "2026-09-25T05:38:39Z"
   }
 }
