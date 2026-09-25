@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.66.3",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.3/Nexora-Setup-4.66.3.exe",
-    "sha256": "28071f4d59b7983058214b90cd41251683430e6de450f9282bb3773e06dbdef4",
-    "sizeBytes": 82811207,
-    "notes": "4.66.3: one demo per mobile number; Nexora website in About and the company panel; company name stays centred; no coating, no laminated GPM; one Weight Breakdown with sizes; the sidebar holds still.",
-    "publishedAt": "2026-09-25T05:38:39Z"
+    "version": "4.66.4",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.4/Nexora-Setup-4.66.4.exe",
+    "sha256": "47a2461ac39df4e2bc9742de7431e5c7af2880b2f003f528855ff29614ad7162",
+    "sizeBytes": 82813495,
+    "notes": "4.66.4: records filtered by person, construction, customer and date; a colour per person; the service now enforces admin-only prices/constants and read-only after the licence ends.",
+    "publishedAt": "2026-09-25T06:27:16Z"
   },
   "local": {
-    "version": "3.66.3",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.3/Nexora-Setup-3.66.3.exe",
-    "sha256": "c129a03d51b35cfb7469fe21f3ce67d9535b9f2434297052df8c48da7a99aba3",
-    "sizeBytes": 82811243,
-    "notes": "4.66.3: one demo per mobile number; Nexora website in About and the company panel; company name stays centred; no coating, no laminated GPM; one Weight Breakdown with sizes; the sidebar holds still.",
-    "publishedAt": "2026-09-25T05:38:39Z"
+    "version": "3.66.4",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.4/Nexora-Setup-3.66.4.exe",
+    "sha256": "19da88b1ca9abcd70b3e3a0f0e74eff108ca40e640f7f9411738da490d4137cf",
+    "sizeBytes": 82813603,
+    "notes": "4.66.4: records filtered by person, construction, customer and date; a colour per person; the service now enforces admin-only prices/constants and read-only after the licence ends.",
+    "publishedAt": "2026-09-25T06:27:16Z"
   }
 }
