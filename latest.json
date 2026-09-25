@@ -1,18 +1,18 @@
 {
   "licensed": {
-    "version": "4.66.6",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.6/Nexora-Setup-4.66.6.exe",
-    "sha256": "e4de529971bd42e06e9b1497925873091bf2116ea924190c78425bd29d736fbb",
-    "sizeBytes": 82819999,
-    "notes": "4.66.6: sync within seconds; the computer a person left signs out at once; BOPP on its own line in a laminated route; BOPP as an optional part tab; Today filter fixed.",
-    "publishedAt": "2026-09-25T19:29:17Z"
+    "version": "4.66.7",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.7/Nexora-Setup-4.66.7.exe",
+    "sha256": "7b4d7574c90a27608780886e7c5780672b9b20d36d79ab989b346df633b0204d",
+    "sizeBytes": 82820632,
+    "notes": "4.66.7: every user can add materials and change waste in a stage section (a BOPP or ink added by a user no longer disappears after save).",
+    "publishedAt": "2026-09-25T20:23:15Z"
   },
   "local": {
-    "version": "3.66.6",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.6/Nexora-Setup-3.66.6.exe",
-    "sha256": "848a0f02373c8ac88ca6dcd36f523c74432cd85179fcc8fbac722cd4bdb8610d",
-    "sizeBytes": 82820056,
-    "notes": "4.66.6: sync within seconds; the computer a person left signs out at once; BOPP on its own line in a laminated route; BOPP as an optional part tab; Today filter fixed.",
-    "publishedAt": "2026-09-25T19:29:18Z"
+    "version": "3.66.7",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.7/Nexora-Setup-3.66.7.exe",
+    "sha256": "42d84f96c86818569a3c467528ea6acfce74e1a588cebf9e5306db66ab63b7d3",
+    "sizeBytes": 82820768,
+    "notes": "4.66.7: every user can add materials and change waste in a stage section (a BOPP or ink added by a user no longer disappears after save).",
+    "publishedAt": "2026-09-25T20:23:15Z"
   }
 }
