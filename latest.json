@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.66.7",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.66.7/Nexora-Setup-4.66.7.exe",
-    "sha256": "7b4d7574c90a27608780886e7c5780672b9b20d36d79ab989b346df633b0204d",
-    "sizeBytes": 82820632,
-    "notes": "4.66.7: every user can add materials and change waste in a stage section (a BOPP or ink added by a user no longer disappears after save).",
-    "publishedAt": "2026-09-25T20:23:15Z"
+    "version": "4.67.17",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.67.17/Nexora-Setup-4.67.17.exe",
+    "sha256": "6b0a283230d09e1b27025c5d4231ba24be2687b670acea262082f9a273748af8",
+    "sizeBytes": 82880711,
+    "notes": "4.67.17: one Nexora with Nexora AI — help answers even when Google is slow, the AI window glows while it thinks, Table settings in Settings, many Nexora AI fixes",
+    "publishedAt": "2026-09-28T15:12:16Z"
   },
   "local": {
     "version": "3.66.7",
