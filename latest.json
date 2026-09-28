@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.67.17",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.67.17/Nexora-Setup-4.67.17.exe",
-    "sha256": "6b0a283230d09e1b27025c5d4231ba24be2687b670acea262082f9a273748af8",
-    "sizeBytes": 82880711,
-    "notes": "4.67.17: one Nexora with Nexora AI - help answers even when Google is slow, the AI window glows while it thinks, Table settings in Settings, many Nexora AI fixes",
-    "publishedAt": "2026-09-28T15:14:30Z"
+    "version": "4.67.18",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.67.18/Nexora-Setup-4.67.18.exe",
+    "sha256": "40892446d9ab88835795c8c61eb168c4735b6bcd437f517e755e49ddde3bdad2",
+    "sizeBytes": 82883217,
+    "notes": "Nexora AI: the old star mark again, a one-line AI box, Copy under each answer; automatic backup when Nexora is closed after 5 pm (Documents\\Nexora Backups); your own Google Gemini key in Settings - Features (optional, Nexora's key by default).",
+    "publishedAt": "2026-09-28T18:57:57Z"
   },
   "local": {
     "version": "3.66.7",
