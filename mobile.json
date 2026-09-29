@@ -1,10 +1,10 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 15,
-  "versionName": "0.7.0",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.7.0/nexora-mobile-0.7.0.apk",
-  "sha256": "64d008387f27600029b64b34bad25d3cb9c546a054b2bb37b44eee2a57734a6d",
-  "sizeBytes": 18608507,
-  "notes": "0.7.0 — the dashboard with charts, the side menu, the BOM in full with part sizes and part-wise cost, the 3D bag view, follow-up reminders, call/WhatsApp/SMS",
-  "publishedAt": "2026-09-29T19:19:06.049Z"
+  "versionCode": 16,
+  "versionName": "0.7.1",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.7.1/nexora-mobile-0.7.1.apk",
+  "sha256": "d33fe5b1b023fa2e6a4aadaaaad3734ab43b0eb022ea946e81f9ad61b638afa4",
+  "sizeBytes": 18055173,
+  "notes": "0.7.1 — the 3D bag view's lay-flat labels tidied (cutting allowance)",
+  "publishedAt": "2026-09-29T19:56:54.627Z"
 }
