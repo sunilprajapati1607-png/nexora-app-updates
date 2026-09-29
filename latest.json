@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.68.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.68.1/Nexora-Setup-4.68.1.exe",
-    "sha256": "1006f47a10ffa8639d9a2acc85dce8d978174306d21ee55d4e255bb0a1db2fe8",
-    "sizeBytes": 82911414,
-    "notes": "Marketing: Follow-Ups, Work Done, WhatsApp to the customer; restore keeps quotations",
-    "publishedAt": "2026-09-29T12:02:07Z"
+    "version": "4.68.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.68.2/Nexora-Setup-4.68.2.exe",
+    "sha256": "bdbc89d86e82fc67032ef5238369b9c7ae74f483f66ceae7d1b7978439bc3ea9",
+    "sizeBytes": 82916773,
+    "notes": "Marketing: Targets And Performance (bags and kg), Marketing Dashboard, Marketing row on the Dashboard",
+    "publishedAt": "2026-09-29T14:05:00Z"
   },
   "local": {
     "version": "3.66.7",
