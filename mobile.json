@@ -1,10 +1,10 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 14,
-  "versionName": "0.6.0",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.6.0/nexora-mobile-0.6.0.apk",
-  "sha256": "a1d928cef9e270ded427a7786632bf1014e65aa00fb6949f6f791ef10c3b3ef8",
-  "sizeBytes": 17839529,
-  "notes": "0.6.0 — Sales & Costing: the morning briefing in Marketing, customers with many contacts and addresses, a new customer from phone contacts, the company's text case",
-  "publishedAt": "2026-09-29T17:59:02.018Z"
+  "versionCode": 15,
+  "versionName": "0.7.0",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.7.0/nexora-mobile-0.7.0.apk",
+  "sha256": "64d008387f27600029b64b34bad25d3cb9c546a054b2bb37b44eee2a57734a6d",
+  "sizeBytes": 18608507,
+  "notes": "0.7.0 — the dashboard with charts, the side menu, the BOM in full with part sizes and part-wise cost, the 3D bag view, follow-up reminders, call/WhatsApp/SMS",
+  "publishedAt": "2026-09-29T19:19:06.049Z"
 }
