@@ -1,10 +1,10 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 13,
-  "versionName": "0.5.1",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.5.1/nexora-mobile-0.5.1.apk",
-  "sha256": "5984c81a05473bc47fd4c5efd16aa1ad04640f1ae87e88c511f1183ed901e46a",
-  "sizeBytes": 17816829,
-  "notes": "Nexora AI knows Marketing; morning follow-ups notification; Customers, Work Done and Targets screens",
-  "publishedAt": "2026-09-29T15:45:24.849Z"
+  "versionCode": 14,
+  "versionName": "0.6.0",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.6.0/nexora-mobile-0.6.0.apk",
+  "sha256": "a1d928cef9e270ded427a7786632bf1014e65aa00fb6949f6f791ef10c3b3ef8",
+  "sizeBytes": 17839529,
+  "notes": "0.6.0 — Sales & Costing: the morning briefing in Marketing, customers with many contacts and addresses, a new customer from phone contacts, the company's text case",
+  "publishedAt": "2026-09-29T17:59:02.018Z"
 }
