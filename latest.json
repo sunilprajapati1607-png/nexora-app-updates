@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.67.19",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.67.19/Nexora-Setup-4.67.19.exe",
-    "sha256": "e0af439f7e37ce8f91f3b1a655b534aaea7b32367b3c559629329c2d6455107a",
-    "sizeBytes": 82884664,
-    "notes": "Nexora AI: one box in every AI window (it changes and answers), long conversations scroll; plus 4.67.18: star mark, one-line AI box, evening backup, own Gemini key.",
-    "publishedAt": "2026-09-29T03:16:05Z"
+    "version": "4.67.20",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.67.20/Nexora-Setup-4.67.20.exe",
+    "sha256": "9be26f385a24604182728203c7c66533245783259a5159a09a2beacaebf213fd",
+    "sizeBytes": 82885151,
+    "notes": "@ People offers every person of the company, signed in or not; plus 4.67.19: one box in every Nexora AI window, long conversations scroll.",
+    "publishedAt": "2026-09-29T05:16:02Z"
   },
   "local": {
     "version": "3.66.7",
