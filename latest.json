@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.69.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.69.0/Nexora-Setup-4.69.0.exe",
-    "sha256": "4d450c6b41a840fb50ac3b0e02ca518f421d402f12a1624d8021607daa324b5b",
-    "sizeBytes": 82934329,
-    "notes": "4.69.0 — Nexora Sales & Costing: Marketing after the Dashboard (Customers first); the Dashboard's Calculation and Marketing tabs with a morning briefing and animated graphs; company Text Case (as written / UPPER / Proper / lower); enquiry sources in Settings; customers with many contacts, addresses and sub companies; new enquiries assigned to whoever makes them; 50 sample records to learn with.",
-    "publishedAt": "2026-09-29T17:57:19Z"
+    "version": "4.69.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.69.1/Nexora-Setup-4.69.1.exe",
+    "sha256": "648c8fd2760fd02fe6a9c65713f5e46511e95c799fcc74bbf078105ef9800130",
+    "sizeBytes": 82935311,
+    "notes": "4.69.1 — gradients: the Dashboard hero in the morning briefing's colours; primary buttons, the active menu row, figures, dialog heads and tabs in gradients of your theme's own accent (no setting changed). Fixed: Written Today counts by this computer's day.",
+    "publishedAt": "2026-09-29T19:45:04Z"
   },
   "local": {
     "version": "3.66.7",
