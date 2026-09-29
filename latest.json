@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.67.18",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.67.18/Nexora-Setup-4.67.18.exe",
-    "sha256": "40892446d9ab88835795c8c61eb168c4735b6bcd437f517e755e49ddde3bdad2",
-    "sizeBytes": 82883217,
-    "notes": "Nexora AI: the old star mark again, a one-line AI box, Copy under each answer; automatic backup when Nexora is closed after 5 pm (Documents\\Nexora Backups); your own Google Gemini key in Settings - Features (optional, Nexora's key by default).",
-    "publishedAt": "2026-09-28T18:57:57Z"
+    "version": "4.67.19",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.67.19/Nexora-Setup-4.67.19.exe",
+    "sha256": "e0af439f7e37ce8f91f3b1a655b534aaea7b32367b3c559629329c2d6455107a",
+    "sizeBytes": 82884664,
+    "notes": "Nexora AI: one box in every AI window (it changes and answers), long conversations scroll; plus 4.67.18: star mark, one-line AI box, evening backup, own Gemini key.",
+    "publishedAt": "2026-09-29T03:16:05Z"
   },
   "local": {
     "version": "3.66.7",
