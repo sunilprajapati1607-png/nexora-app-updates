@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.68.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.68.0/Nexora-Setup-4.68.0.exe",
-    "sha256": "684f45c89fa3c6f268494b7a3048e221e64540b8edd5895b4a4133c729c8e729",
-    "sizeBytes": 82906189,
-    "notes": "Marketing (Pro): enquiries, customers with a duplicate check, follow-ups, sources",
-    "publishedAt": "2026-09-29T11:21:23Z"
+    "version": "4.68.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.68.1/Nexora-Setup-4.68.1.exe",
+    "sha256": "1006f47a10ffa8639d9a2acc85dce8d978174306d21ee55d4e255bb0a1db2fe8",
+    "sizeBytes": 82911414,
+    "notes": "Marketing: Follow-Ups, Work Done, WhatsApp to the customer; restore keeps quotations",
+    "publishedAt": "2026-09-29T12:02:07Z"
   },
   "local": {
     "version": "3.66.7",
