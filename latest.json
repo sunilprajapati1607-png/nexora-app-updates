@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.68.3",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.68.3/Nexora-Setup-4.68.3.exe",
-    "sha256": "67782f4ef0d278a2cb8816a3c200e05a73401d4bb573e43b6ca3f92b7e9c9e9f",
-    "sizeBytes": 82920918,
-    "notes": "Nexora AI knows Marketing; Excel export of enquiries and customers; customer list imported from Excel",
-    "publishedAt": "2026-09-29T15:39:10Z"
+    "version": "4.69.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.69.0/Nexora-Setup-4.69.0.exe",
+    "sha256": "4d450c6b41a840fb50ac3b0e02ca518f421d402f12a1624d8021607daa324b5b",
+    "sizeBytes": 82934329,
+    "notes": "4.69.0 — Nexora Sales & Costing: Marketing after the Dashboard (Customers first); the Dashboard's Calculation and Marketing tabs with a morning briefing and animated graphs; company Text Case (as written / UPPER / Proper / lower); enquiry sources in Settings; customers with many contacts, addresses and sub companies; new enquiries assigned to whoever makes them; 50 sample records to learn with.",
+    "publishedAt": "2026-09-29T17:57:19Z"
   },
   "local": {
     "version": "3.66.7",
