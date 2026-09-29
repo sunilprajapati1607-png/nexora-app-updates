@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.67.20",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.67.20/Nexora-Setup-4.67.20.exe",
-    "sha256": "9be26f385a24604182728203c7c66533245783259a5159a09a2beacaebf213fd",
-    "sizeBytes": 82885151,
-    "notes": "@ People offers every person of the company, signed in or not; plus 4.67.19: one box in every Nexora AI window, long conversations scroll.",
-    "publishedAt": "2026-09-29T05:17:27Z"
+    "version": "4.67.21",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.67.21/Nexora-Setup-4.67.21.exe",
+    "sha256": "451c9ebbfb7702f13e1f41827f04e8ee6093638c35c376d6432accbb7c3dfe9c",
+    "sizeBytes": 82886588,
+    "notes": "Labels and headings in Proper Case; evening backup on D: and only on the administrator's computer; Nexora AI questions a day per company from the console.",
+    "publishedAt": "2026-09-29T06:45:57Z"
   },
   "local": {
     "version": "3.66.7",
