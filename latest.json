@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.68.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.68.2/Nexora-Setup-4.68.2.exe",
-    "sha256": "bdbc89d86e82fc67032ef5238369b9c7ae74f483f66ceae7d1b7978439bc3ea9",
-    "sizeBytes": 82916773,
-    "notes": "Marketing: Targets And Performance (bags and kg), Marketing Dashboard, Marketing row on the Dashboard",
-    "publishedAt": "2026-09-29T14:05:00Z"
+    "version": "4.68.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.68.3/Nexora-Setup-4.68.3.exe",
+    "sha256": "67782f4ef0d278a2cb8816a3c200e05a73401d4bb573e43b6ca3f92b7e9c9e9f",
+    "sizeBytes": 82920918,
+    "notes": "Nexora AI knows Marketing; Excel export of enquiries and customers; customer list imported from Excel",
+    "publishedAt": "2026-09-29T15:23:47Z"
   },
   "local": {
     "version": "3.66.7",
