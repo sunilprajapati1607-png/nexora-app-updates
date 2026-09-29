@@ -1,10 +1,10 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 11,
-  "versionName": "0.4.7",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.4.7/nexora-mobile-0.4.7.apk",
-  "sha256": "3de8317dacf97d3a1007cf415f290ffc60b90e35171539043eba8af3d3ea2713",
-  "sizeBytes": 17657237,
-  "notes": "Labels and headings in Proper Case",
-  "publishedAt": "2026-09-29T06:28:59.541Z"
+  "versionCode": 12,
+  "versionName": "0.5.0",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.5.0/nexora-mobile-0.5.0.apk",
+  "sha256": "8175015a548b241115c8d1f645e6c56735a2b4c25e3547aec8069a40614c9813",
+  "sizeBytes": 17767977,
+  "notes": "Marketing: enquiries, follow-ups, WhatsApp and call; Nexora AI opens the calculation and quotation forms",
+  "publishedAt": "2026-09-29T14:33:39.250Z"
 }
