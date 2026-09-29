@@ -1,10 +1,10 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 10,
-  "versionName": "0.4.6",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.4.6/nexora-mobile-0.4.6.apk",
-  "sha256": "8d04bf432e28b6c831c3f98c1dd6a48dd7e4a774141d3006d5d2401e39400144",
-  "sizeBytes": 17656741,
-  "notes": "Updates itself from inside the app (More - Update); Nexora AI sees the phone's quotations; @ offers everyone",
-  "publishedAt": "2026-09-29T05:19:12.950Z"
+  "versionCode": 11,
+  "versionName": "0.4.7",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.4.7/nexora-mobile-0.4.7.apk",
+  "sha256": "3de8317dacf97d3a1007cf415f290ffc60b90e35171539043eba8af3d3ea2713",
+  "sizeBytes": 17657237,
+  "notes": "Labels and headings in Proper Case",
+  "publishedAt": "2026-09-29T06:28:59.541Z"
 }
