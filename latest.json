@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.70.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.70.2/Nexora-Setup-4.70.2.exe",
-    "sha256": "4f2095e98f7ed096b597d6a030eb11454c4b050604f3f8059ac5d8350c51e437",
-    "sizeBytes": 82947306,
-    "notes": "Modules menu like SAP Business One (Alt, M, C, R); arrows and Enter in every menu; menu a pixel bigger",
-    "publishedAt": "2026-09-30T12:22:06Z"
+    "version": "4.70.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.70.3/Nexora-Setup-4.70.3.exe",
+    "sha256": "1d4ba7d8b291b162e9a05a4374cbe85e2d62a2acf916a32b9c506be19ebc3167",
+    "sizeBytes": 82949212,
+    "notes": "The company chat opens on its last message; @ leaves the cursor after the word and one space; @ tags Enquiry and Customer too (the module, then only its records); a notice from Nexora is never lost behind a reply; the phone's reminder time survives an edit on the computer.",
+    "publishedAt": "2026-09-30T15:23:54Z"
   },
   "local": {
     "version": "3.66.7",
