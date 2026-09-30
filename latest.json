@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.69.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.69.2/Nexora-Setup-4.69.2.exe",
-    "sha256": "82720bb3c9e0a9a4fa4473fcd21aad865a140953a9162ec5909144c426da2f84",
-    "sizeBytes": 82935384,
-    "notes": "4.69.2 — the writing on every gradient button is white and readable, whatever its colour (the green Open on Calculation Records).",
-    "publishedAt": "2026-09-30T03:05:01Z"
+    "version": "4.69.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.69.3/Nexora-Setup-4.69.3.exe",
+    "sha256": "846c212b54d27ec34ca3feb89e2ba927bd34060433dfd8c50588844be7c324ff",
+    "sizeBytes": 82936244,
+    "notes": "Bring back works while Settings is open; every tab and every figure tile in a gradient",
+    "publishedAt": "2026-09-30T06:10:08Z"
   },
   "local": {
     "version": "3.66.7",
