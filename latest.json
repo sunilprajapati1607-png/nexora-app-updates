@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.70.3",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.70.3/Nexora-Setup-4.70.3.exe",
-    "sha256": "1d4ba7d8b291b162e9a05a4374cbe85e2d62a2acf916a32b9c506be19ebc3167",
-    "sizeBytes": 82949212,
-    "notes": "The company chat opens on its last message; @ leaves the cursor after the word and one space; @ tags Enquiry and Customer too (the module, then only its records); a notice from Nexora is never lost behind a reply; the phone's reminder time survives an edit on the computer.",
-    "publishedAt": "2026-09-30T15:23:54Z"
+    "version": "4.70.4",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.70.4/Nexora-Setup-4.70.4.exe",
+    "sha256": "5672efbfbdef330f8a0c7ed7a211335a070421b602f651f56e781387eaa41475",
+    "sizeBytes": 82956699,
+    "notes": "Keep every version: a quotation or enquiry changed on two devices at once keeps both changes, the other copy under Versions to put back. Figure tiles and BOM part tabs in two-colour gradients with icons. Changing the contrast no longer undoes a picked colour. Marketing counts by the local day.",
+    "publishedAt": "2026-09-30T19:04:57Z"
   },
   "local": {
     "version": "3.66.7",
