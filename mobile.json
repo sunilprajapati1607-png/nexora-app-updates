@@ -1,10 +1,10 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 20,
-  "versionName": "0.9.2",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.9.2/nexora-mobile-0.9.2.apk",
-  "sha256": "0e907e51127890d521e082bede42f86a905ba7190a40aeda67ffca173d458770",
-  "sizeBytes": 18222717,
-  "notes": "Chat opens on its last message; @ puts the cursor after the word and tags modules (Calculation, BOM, Quotation, Enquiry, Customer, People); Approvals in the side menu, by kind; a bag's cost and profit, or 'BOM is not costed'; records pulled in the background no longer go missing.",
-  "publishedAt": "2026-09-30T15:28:01.889Z"
+  "versionCode": 21,
+  "versionName": "0.9.3",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.9.3/nexora-mobile-0.9.3.apk",
+  "sha256": "1e789dd887ba55a33240025872f4d2d312f20d637fdbeeb9908703eb1d738868",
+  "sizeBytes": 19003686,
+  "notes": "Keep every version: a quotation or enquiry changed on the phone and a computer at once keeps both changes, the other copy under Versions to put back. Signed in on another phone: this one signs out at once, with a notification. Marketing figures count by the local day.",
+  "publishedAt": "2026-09-30T19:13:00.946Z"
 }
