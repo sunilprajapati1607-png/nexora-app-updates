@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.69.3",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.69.3/Nexora-Setup-4.69.3.exe",
-    "sha256": "846c212b54d27ec34ca3feb89e2ba927bd34060433dfd8c50588844be7c324ff",
-    "sizeBytes": 82936244,
-    "notes": "Bring back works while Settings is open; every tab and every figure tile in a gradient",
-    "publishedAt": "2026-09-30T06:10:08Z"
+    "version": "4.70.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.70.0/Nexora-Setup-4.70.0.exe",
+    "sha256": "015df457fe3e869350f5cab4cb9fc473b91c08065e21f8d8e963a1bff3208d2e",
+    "sizeBytes": 82943806,
+    "notes": "Alt shortcuts like SAP Business One; Excel for administrators only; phone screenshot permission; chat search and Mark all read",
+    "publishedAt": "2026-09-30T08:48:01Z"
   },
   "local": {
     "version": "3.66.7",
