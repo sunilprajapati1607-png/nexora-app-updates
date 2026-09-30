@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.70.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.70.1/Nexora-Setup-4.70.1.exe",
-    "sha256": "0efd6de8577232db2cb827020f0127887fe962d0eecf186537182734d77fc132",
-    "sizeBytes": 82946034,
-    "notes": "Shortcuts one after another like Excel (Alt, M, C); Marketing in orange to violet, every figure tile its own colour; hint bulbs on or off",
-    "publishedAt": "2026-09-30T11:46:23Z"
+    "version": "4.70.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.70.2/Nexora-Setup-4.70.2.exe",
+    "sha256": "4f2095e98f7ed096b597d6a030eb11454c4b050604f3f8059ac5d8350c51e437",
+    "sizeBytes": 82947306,
+    "notes": "Modules menu like SAP Business One (Alt, M, C, R); arrows and Enter in every menu; menu a pixel bigger",
+    "publishedAt": "2026-09-30T12:22:06Z"
   },
   "local": {
     "version": "3.66.7",
