@@ -1,10 +1,10 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 17,
-  "versionName": "0.8.0",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.8.0/nexora-mobile-0.8.0.apk",
-  "sha256": "2df262a28c9397de8b107754eea3f12d3c8a3d6f3117099f324fbb7c21c726b5",
-  "sizeBytes": 18062757,
-  "notes": "0.8.0 — Marketing, Bags, BOMs and Quotations as tabs in their own colours, settings in the side menu, a press felt everywhere",
-  "publishedAt": "2026-09-30T03:33:27.180Z"
+  "versionCode": 18,
+  "versionName": "0.9.0",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.9.0/nexora-mobile-0.9.0.apk",
+  "sha256": "9d755265603b435211e6f9ed07de1b93047386fc60f4cea2c13ef065400271e4",
+  "sizeBytes": 18161497,
+  "notes": "Morning briefing, quick alerts, Users & phones for the admin, Excel for the admin, chat search and Mark all read; screenshots only when the admin allows",
+  "publishedAt": "2026-09-30T08:54:27.255Z"
 }
