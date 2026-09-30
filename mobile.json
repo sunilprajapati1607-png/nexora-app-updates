@@ -1,10 +1,10 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 18,
-  "versionName": "0.9.0",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.9.0/nexora-mobile-0.9.0.apk",
-  "sha256": "9d755265603b435211e6f9ed07de1b93047386fc60f4cea2c13ef065400271e4",
-  "sizeBytes": 18161497,
-  "notes": "Morning briefing, quick alerts, Users & phones for the admin, Excel for the admin, chat search and Mark all read; screenshots only when the admin allows",
-  "publishedAt": "2026-09-30T08:54:27.255Z"
+  "versionCode": 19,
+  "versionName": "0.9.1",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.9.1/nexora-mobile-0.9.1.apk",
+  "sha256": "1486c300b91ed874949f2c2ed9cd7feb71077272732efcc4639e48d5e8c62159",
+  "sizeBytes": 18164345,
+  "notes": "Every KPI card in its own colour gradient (light and dark); Marketing in orange to violet",
+  "publishedAt": "2026-09-30T11:56:08.808Z"
 }
