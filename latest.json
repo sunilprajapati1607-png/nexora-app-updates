@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.70.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.70.0/Nexora-Setup-4.70.0.exe",
-    "sha256": "015df457fe3e869350f5cab4cb9fc473b91c08065e21f8d8e963a1bff3208d2e",
-    "sizeBytes": 82943806,
-    "notes": "Alt shortcuts like SAP Business One; Excel for administrators only; phone screenshot permission; chat search and Mark all read",
-    "publishedAt": "2026-09-30T08:48:01Z"
+    "version": "4.70.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.70.1/Nexora-Setup-4.70.1.exe",
+    "sha256": "0efd6de8577232db2cb827020f0127887fe962d0eecf186537182734d77fc132",
+    "sizeBytes": 82946034,
+    "notes": "Shortcuts one after another like Excel (Alt, M, C); Marketing in orange to violet, every figure tile its own colour; hint bulbs on or off",
+    "publishedAt": "2026-09-30T11:46:23Z"
   },
   "local": {
     "version": "3.66.7",
