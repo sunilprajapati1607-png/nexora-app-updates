@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.69.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.69.1/Nexora-Setup-4.69.1.exe",
-    "sha256": "648c8fd2760fd02fe6a9c65713f5e46511e95c799fcc74bbf078105ef9800130",
-    "sizeBytes": 82935311,
-    "notes": "4.69.1 — gradients: the Dashboard hero in the morning briefing's colours; primary buttons, the active menu row, figures, dialog heads and tabs in gradients of your theme's own accent (no setting changed). Fixed: Written Today counts by this computer's day.",
-    "publishedAt": "2026-09-29T19:45:04Z"
+    "version": "4.69.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.69.2/Nexora-Setup-4.69.2.exe",
+    "sha256": "82720bb3c9e0a9a4fa4473fcd21aad865a140953a9162ec5909144c426da2f84",
+    "sizeBytes": 82935384,
+    "notes": "4.69.2 — the writing on every gradient button is white and readable, whatever its colour (the green Open on Calculation Records).",
+    "publishedAt": "2026-09-30T03:05:01Z"
   },
   "local": {
     "version": "3.66.7",
