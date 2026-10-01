@@ -1,10 +1,10 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 21,
-  "versionName": "0.9.3",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v0.9.3/nexora-mobile-0.9.3.apk",
-  "sha256": "1e789dd887ba55a33240025872f4d2d312f20d637fdbeeb9908703eb1d738868",
-  "sizeBytes": 19003686,
-  "notes": "Keep every version: a quotation or enquiry changed on the phone and a computer at once keeps both changes, the other copy under Versions to put back. Signed in on another phone: this one signs out at once, with a notification. Marketing figures count by the local day.",
-  "publishedAt": "2026-09-30T19:13:00.946Z"
+  "versionCode": 22,
+  "versionName": "1.0.0",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v1.0.0/nexora-mobile-1.0.0.apk",
+  "sha256": "c01b8cca03a80a082dc85ee7cc84ed685f21153af1b812f500b0213e3ce9a631",
+  "sizeBytes": 12167573,
+  "notes": "Nexora Mobile 1.0.0: Weight to GSM in New Calculation (type the target weight, Nexora finds the body fabric GSM), safer sign-in (3 wrong PINs lock 15 minutes), records hidden after 3 days offline, signed with Nexora's release key.",
+  "publishedAt": "2026-10-01T18:10:55.091Z"
 }
