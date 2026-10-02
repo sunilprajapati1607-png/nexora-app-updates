@@ -1,10 +1,10 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 22,
-  "versionName": "1.0.0",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v1.0.0/nexora-mobile-1.0.0.apk",
-  "sha256": "c01b8cca03a80a082dc85ee7cc84ed685f21153af1b812f500b0213e3ce9a631",
-  "sizeBytes": 12167573,
-  "notes": "Nexora Mobile 1.0.0: Weight to GSM in New Calculation (type the target weight, Nexora finds the body fabric GSM), safer sign-in (3 wrong PINs lock 15 minutes), records hidden after 3 days offline, signed with Nexora's release key.",
-  "publishedAt": "2026-10-01T18:10:55.091Z"
+  "versionCode": 23,
+  "versionName": "1.0.1",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v1.0.1/nexora-mobile-1.0.1.apk",
+  "sha256": "5e3c13878a95aad2f76963a1ec319259a018571e1b7f2ceac1c14500dde1d575",
+  "sizeBytes": 12220821,
+  "notes": "Nexora AI keeps your lists, answers counts on the phone and reads answers aloud; customer names stay private; rates for people with the costs right; safer approvals and numbers",
+  "publishedAt": "2026-10-02T09:24:56.123Z"
 }
