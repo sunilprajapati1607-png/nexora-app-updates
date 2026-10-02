@@ -1,11 +1,11 @@
 {
   "licensed": {
-    "version": "4.71.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.71.0/Nexora-Setup-4.71.0.exe",
-    "sha256": "a22cac64257d7e49cd4602a3808a998589f74d2b9d6500ebbce1fe35496b779c",
-    "sizeBytes": 83096844,
-    "notes": "Security update: 3 wrong PINs lock 15 minutes, a new computer joins only with the administrator's approval, prices only for people who may see costs, every computer carries a secret device key. New: Routes and Processes as two windows, Settings menu, Help -> Updates, styled BOM Excel, file names Company-Record-Date-Time, a new recipe replaces the old one's materials. Works 3 days offline.",
-    "publishedAt": "2026-10-01T17:40:03Z"
+    "version": "4.72.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.72.0/Nexora-Setup-4.72.0.exe",
+    "sha256": "10a8db76dcf3d7beff7614924d01151b06724a0870d7202c8380d8c778b8a435",
+    "sizeBytes": 99946931,
+    "notes": "Nexora AI on a fifth of the words; counts answered on this computer; lock when idle; approvals badge; quotation buyer from Customers and amount in words; BOM cost on the exact kg; safer sign-in, backups and updates",
+    "publishedAt": "2026-10-02T10:00:46Z"
   },
   "local": {
     "version": "3.66.7",
