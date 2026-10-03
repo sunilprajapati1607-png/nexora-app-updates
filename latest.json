@@ -1,12 +1,12 @@
 {
   "licensed": {
-    "version": "4.75.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.75.1/Nexora-Setup-4.75.1.exe",
-    "sha256": "5271a87bcd030c40a4975fe335746ca48e50cf3d5a95514e75d45df3086178df",
-    "sizeBytes": 91498506,
-    "notes": "On a narrow screen a new enquiry's Won, Lost and Print wait under More at the end of the title bar so every button fits; wider screens are unchanged.",
-    "publishedAt": "2026-10-03T05:04:03Z",
-    "sig": "MEYCIQC6jDKiSRi7cRZ0Ol7nP3vKHVHZO+w2pAIRPnAO6kn4igIhALn3rU1NYmeLOvChhoaJGniZRJmKLJNXZxyYtt3yUMNk"
+    "version": "4.75.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.75.2/Nexora-Setup-4.75.2.exe",
+    "sha256": "9daf1d7eed511748cade7f1adac94973d2766e8a87597efa68e66b9dc8c3abbd",
+    "sizeBytes": 91499255,
+    "notes": "The action bar gets a full-colour gradient for every action, by its work; a new enquiry's title bar no longer repeats New and Save (the action bar has them).",
+    "publishedAt": "2026-10-03T05:51:52Z",
+    "sig": "MEYCIQCdAJeU0QWO3qveJ9gspS8wpY4DoYwhGw/AjT8XEPrIigIhAO/qLM1H39xOrLWtFoFFxx8HpyPggGa5XLHmRo/BO2HM"
   },
   "local": {
     "version": "3.66.7",
