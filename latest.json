@@ -1,12 +1,12 @@
 {
   "licensed": {
-    "version": "4.75.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.75.2/Nexora-Setup-4.75.2.exe",
-    "sha256": "9daf1d7eed511748cade7f1adac94973d2766e8a87597efa68e66b9dc8c3abbd",
-    "sizeBytes": 91499255,
-    "notes": "The action bar gets a full-colour gradient for every action, by its work; a new enquiry's title bar no longer repeats New and Save (the action bar has them).",
-    "publishedAt": "2026-10-03T05:51:52Z",
-    "sig": "MEYCIQCdAJeU0QWO3qveJ9gspS8wpY4DoYwhGw/AjT8XEPrIigIhAO/qLM1H39xOrLWtFoFFxx8HpyPggGa5XLHmRo/BO2HM"
+    "version": "4.75.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.75.3/Nexora-Setup-4.75.3.exe",
+    "sha256": "c8266336040af968bb4bf211d66641c8a2e8eb6e2c5e2b4df8de5d09622d41e4",
+    "sizeBytes": 91501473,
+    "notes": "Every action bar action has a Ctrl key that works on the window in front (Ctrl+S saves an enquiry, Ctrl+N makes what the window makes); Alt then S opens Settings; side menu icons in the action bar's colours.",
+    "publishedAt": "2026-10-03T07:29:32Z",
+    "sig": "MEUCIHqmBDu3vKPTy+SOHgUCiO8eBJ66dnMfyKvKy1lGUONqAiEAyIUYeTp06IQfq8ywM0cx6FrDxfVgG0gYBd5mK5pNhJc="
   },
   "local": {
     "version": "3.66.7",
