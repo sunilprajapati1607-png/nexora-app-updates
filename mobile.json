@@ -1,11 +1,11 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 25,
-  "versionName": "1.0.3",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v1.0.3/nexora-mobile-1.0.3.apk",
-  "sha256": "ffbeb788115f3ca5a651a2af6ecb6a773d3af21d03b89e8b2526acac5e55de2b",
-  "sizeBytes": 12282261,
-  "sig": "MEQCIG8RXdSq63ji00Wxz0LeJgfwiR4SxmdEkaatNN/Xn6TfAiAhsNDsreekc+SUW+iwQTH+XhLHlyp9iLU88mgW4qji3A==",
-  "notes": "Ask Nexora AI anything about your saved work: the phone finds it in its own data and shows a table; costs never leave the phone.",
-  "publishedAt": "2026-10-02T19:02:07.248Z"
+  "versionCode": 26,
+  "versionName": "1.0.4",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v1.0.4/nexora-mobile-1.0.4.apk",
+  "sha256": "8d10aa0d3d42e94fff7ef4d72ae176afea027e4a7af1d811606f4e6334eae957",
+  "sizeBytes": 12351893,
+  "sig": "MEUCIQD1xaCGdZkdk/1hQzSy7tI/9+oUoTeyUDgprJL+qNHDHgIgL9e/uJG/hnkYqWiKT7V1LKHNK9fRypZ3lJBwwRwJcO0=",
+  "notes": "New enquiry from a photo, a scan or a PDF: Nexora AI reads it only after you say yes, every time. Open these shows the records a Nexora AI search found in their list.",
+  "publishedAt": "2026-10-03T02:55:36.737Z"
 }
