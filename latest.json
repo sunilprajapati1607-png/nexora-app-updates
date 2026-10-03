@@ -1,12 +1,12 @@
 {
   "licensed": {
-    "version": "4.75.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.75.0/Nexora-Setup-4.75.0.exe",
-    "sha256": "577a08cd2a8a923545e31b297e4de7357f150126d158329bc16fd6e3bfc997a1",
-    "sizeBytes": 91498033,
-    "notes": "New enquiry from a photo or a scan (Nexora asks every time before Google AI reads it); Open these in <window> shows exactly the records a Nexora AI search found; the quotation letter is written without figures and filled on this computer; the title bar keeps the new enquiry buttons in view.",
-    "publishedAt": "2026-10-03T02:50:43Z",
-    "sig": "MEUCIBP+lRrz7bBIVrvS/6YdJQ7CizRhGA+etGhE5/rpD0tbAiEA6lANubXlovBh367A0xjrL74UY9wc4irxt2RMFzZmbkM="
+    "version": "4.75.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.75.1/Nexora-Setup-4.75.1.exe",
+    "sha256": "5271a87bcd030c40a4975fe335746ca48e50cf3d5a95514e75d45df3086178df",
+    "sizeBytes": 91498506,
+    "notes": "On a narrow screen a new enquiry's Won, Lost and Print wait under More at the end of the title bar so every button fits; wider screens are unchanged.",
+    "publishedAt": "2026-10-03T05:04:03Z",
+    "sig": "MEYCIQC6jDKiSRi7cRZ0Ol7nP3vKHVHZO+w2pAIRPnAO6kn4igIhALn3rU1NYmeLOvChhoaJGniZRJmKLJNXZxyYtt3yUMNk"
   },
   "local": {
     "version": "3.66.7",
