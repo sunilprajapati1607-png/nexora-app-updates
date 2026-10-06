@@ -1,12 +1,12 @@
 {
   "licensed": {
-    "version": "4.76.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.76.1/Nexora-Setup-4.76.1.exe",
-    "sha256": "a37b58778577b2f2293a3cf122de103c56b2d21e9e79674792ff44700aa96dc6",
-    "sizeBytes": 94386317,
-    "notes": "The manuals are written for 4.76: Display and Edit (Ctrl+W), one click on a row, quotation ticks that follow the buyer, the blinking Specification.",
-    "publishedAt": "2026-10-06T11:50:59Z",
-    "sig": "MEQCIDxsC+f24BRq0vo7rkMv8dUtLanMXj26CHsebcDHsFuWAiAfZ8j0jxTPIzaFETP0gJu0Y5H9bPDCZr1p/D9rIESi3A=="
+    "version": "4.76.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.76.2/Nexora-Setup-4.76.2.exe",
+    "sha256": "05eab2916e52371c55e2d18a393fa0cf95c1b7650094843432a6a5268d346ee1",
+    "sizeBytes": 94387310,
+    "notes": "An update that stops carries on by itself; Nexora opened during an update says it is being installed; the side menu icons as deep as the action bar.",
+    "publishedAt": "2026-10-06T16:42:18Z",
+    "sig": "MEUCIQD6k1B6AToCoA078wTSsY77TSubwPufG08rhsVM26/G5AIge5sAYk6FiB/x3zypS+F24YrHtngttntC25doUqu98S8="
   },
   "local": {
     "version": "3.66.7",
