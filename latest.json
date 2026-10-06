@@ -1,12 +1,12 @@
 {
   "licensed": {
-    "version": "4.76.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.76.0/Nexora-Setup-4.76.0.exe",
-    "sha256": "40a8376cb4b9564405db14da4c903683f5c2289bf0818c59fdd2b755ac8dcb02",
-    "sizeBytes": 93645443,
-    "notes": "A saved record opens to be read; Edit (Ctrl+W) opens it. One click opens a row. A quotation's ticks follow its buyer and you. Specification blinks after a rate.",
-    "publishedAt": "2026-10-06T11:11:22Z",
-    "sig": "MEYCIQD/vzZwxy5eD+pA29gpT6B4GV2KG53loZk/vBbXeKf5SQIhAM1g9EDR7Tz0lZVDVI8HWg32Wh2tMhVL04ZkewzJTpb9"
+    "version": "4.76.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.76.1/Nexora-Setup-4.76.1.exe",
+    "sha256": "a37b58778577b2f2293a3cf122de103c56b2d21e9e79674792ff44700aa96dc6",
+    "sizeBytes": 94386317,
+    "notes": "The manuals are written for 4.76: Display and Edit (Ctrl+W), one click on a row, quotation ticks that follow the buyer, the blinking Specification.",
+    "publishedAt": "2026-10-06T11:50:59Z",
+    "sig": "MEQCIDxsC+f24BRq0vo7rkMv8dUtLanMXj26CHsebcDHsFuWAiAfZ8j0jxTPIzaFETP0gJu0Y5H9bPDCZr1p/D9rIESi3A=="
   },
   "local": {
     "version": "3.66.7",
