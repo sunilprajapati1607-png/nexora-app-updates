@@ -1,12 +1,12 @@
 {
   "licensed": {
-    "version": "4.75.4",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.75.4/Nexora-Setup-4.75.4.exe",
-    "sha256": "3fdc4c1b0cfe80a8196fdca9d860bdf2742bb1eb7ddeac70c3ca049c2cdcdddb",
-    "sizeBytes": 93641777,
-    "notes": "New manuals (Software, Setup, System EN+GU, Installation, Brochure); the company window no longer opens each morning; true messages; Ctrl+S in a dialog",
-    "publishedAt": "2026-10-06T09:35:40Z",
-    "sig": "MEQCIGETGE/aFjznmSJRzaMD9+hIJs84b4Y4IGB1oerli8AGAiANRMMCrfgS86bzODHKwqlnMfoSnNrQ4enPlc4xyP/uxA=="
+    "version": "4.76.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.76.0/Nexora-Setup-4.76.0.exe",
+    "sha256": "40a8376cb4b9564405db14da4c903683f5c2289bf0818c59fdd2b755ac8dcb02",
+    "sizeBytes": 93645443,
+    "notes": "A saved record opens to be read; Edit (Ctrl+W) opens it. One click opens a row. A quotation's ticks follow its buyer and you. Specification blinks after a rate.",
+    "publishedAt": "2026-10-06T11:11:22Z",
+    "sig": "MEYCIQD/vzZwxy5eD+pA29gpT6B4GV2KG53loZk/vBbXeKf5SQIhAM1g9EDR7Tz0lZVDVI8HWg32Wh2tMhVL04ZkewzJTpb9"
   },
   "local": {
     "version": "3.66.7",
