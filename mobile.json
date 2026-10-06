@@ -1,11 +1,11 @@
 {
   "app": "Nexora Mobile",
-  "versionCode": 26,
-  "versionName": "1.0.4",
-  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v1.0.4/nexora-mobile-1.0.4.apk",
-  "sha256": "8d10aa0d3d42e94fff7ef4d72ae176afea027e4a7af1d811606f4e6334eae957",
+  "versionCode": 27,
+  "versionName": "1.0.5",
+  "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/mobile-v1.0.5/nexora-mobile-1.0.5.apk",
+  "sha256": "3ca5bd10ca6826bcc22a242a950eecb6c638c18d7d5fe917e79146efe4240597",
   "sizeBytes": 12351893,
-  "sig": "MEUCIQD1xaCGdZkdk/1hQzSy7tI/9+oUoTeyUDgprJL+qNHDHgIgL9e/uJG/hnkYqWiKT7V1LKHNK9fRypZ3lJBwwRwJcO0=",
-  "notes": "New enquiry from a photo, a scan or a PDF: Nexora AI reads it only after you say yes, every time. Open these shows the records a Nexora AI search found in their list.",
-  "publishedAt": "2026-10-03T02:55:36.737Z"
+  "sig": "MEQCIHyU/B8Hz4SUEwOWloUVfT5Zsm37L4RB/JFyp65IHL7+AiAOQMF0GbIiAz2ZKWQNjtgn0CMkQ+xPLQW12uu0OxRqqw==",
+  "notes": "A new quotation takes the specification lines and conditions of the buyer's last quotation, else your last one; conditions you tick by hand stay.",
+  "publishedAt": "2026-10-06T11:26:43.515Z"
 }
