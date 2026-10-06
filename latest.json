@@ -1,12 +1,12 @@
 {
   "licensed": {
-    "version": "4.75.3",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.75.3/Nexora-Setup-4.75.3.exe",
-    "sha256": "c8266336040af968bb4bf211d66641c8a2e8eb6e2c5e2b4df8de5d09622d41e4",
-    "sizeBytes": 91501473,
-    "notes": "Every action bar action has a Ctrl key that works on the window in front (Ctrl+S saves an enquiry, Ctrl+N makes what the window makes); Alt then S opens Settings; side menu icons in the action bar's colours.",
-    "publishedAt": "2026-10-03T07:29:32Z",
-    "sig": "MEUCIHqmBDu3vKPTy+SOHgUCiO8eBJ66dnMfyKvKy1lGUONqAiEAyIUYeTp06IQfq8ywM0cx6FrDxfVgG0gYBd5mK5pNhJc="
+    "version": "4.75.4",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.75.4/Nexora-Setup-4.75.4.exe",
+    "sha256": "3fdc4c1b0cfe80a8196fdca9d860bdf2742bb1eb7ddeac70c3ca049c2cdcdddb",
+    "sizeBytes": 93641777,
+    "notes": "New manuals (Software, Setup, System EN+GU, Installation, Brochure); the company window no longer opens each morning; true messages; Ctrl+S in a dialog",
+    "publishedAt": "2026-10-06T09:35:40Z",
+    "sig": "MEQCIGETGE/aFjznmSJRzaMD9+hIJs84b4Y4IGB1oerli8AGAiANRMMCrfgS86bzODHKwqlnMfoSnNrQ4enPlc4xyP/uxA=="
   },
   "local": {
     "version": "3.66.7",
