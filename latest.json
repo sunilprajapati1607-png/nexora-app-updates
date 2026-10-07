@@ -1,12 +1,12 @@
 {
   "licensed": {
-    "version": "4.76.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.76.2/Nexora-Setup-4.76.2.exe",
-    "sha256": "05eab2916e52371c55e2d18a393fa0cf95c1b7650094843432a6a5268d346ee1",
-    "sizeBytes": 94387310,
-    "notes": "An update that stops carries on by itself; Nexora opened during an update says it is being installed; the side menu icons as deep as the action bar.",
-    "publishedAt": "2026-10-06T16:42:18Z",
-    "sig": "MEUCIQD6k1B6AToCoA078wTSsY77TSubwPufG08rhsVM26/G5AIge5sAYk6FiB/x3zypS+F24YrHtngttntC25doUqu98S8="
+    "version": "4.76.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.76.3/Nexora-Setup-4.76.3.exe",
+    "sha256": "878dc1a7611fa9bc68d9988edd49fff4df154d7dd4afdde9530478f911f14e04",
+    "sizeBytes": 94387102,
+    "notes": "A colleague's chat message written just before yours is no longer lost; one already missed comes back after the update.",
+    "publishedAt": "2026-10-07T18:53:36Z",
+    "sig": "MEUCIQDsuxgc0RFrHqPETxThPbc+DOWldps+4uU+hHGbRCZN5wIgF6bJICLbSCuNY8RvBE/O2IzTCpDI9NY5lFTrYAcbpbs="
   },
   "local": {
     "version": "3.66.7",
