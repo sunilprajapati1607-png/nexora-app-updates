@@ -1,0 +1,10 @@
+{
+  "jobwork": {
+    "version": "2.2.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/jobwork-v2.2.0/Nexora-Jobwork-Setup-2.2.0.exe",
+    "sha256": "0615104af15e8e5a8cef04419af45d56a621d3c09ad4ed9f585c15585bfde15f",
+    "sizeBytes": 82366978,
+    "notes": "New look, SAP-style keys, saved records open to be read (Edit = Ctrl+W), SAP dates (t, +1, -1), a backup every evening at 5 pm, and Nexora AI asks before a photo goes to Google.",
+    "publishedAt": "2026-10-08T07:42:11.357Z"
+  }
+}
