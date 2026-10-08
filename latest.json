@@ -1,12 +1,12 @@
 {
   "licensed": {
-    "version": "4.76.5",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.76.5/Nexora-Setup-4.76.5.exe",
-    "sha256": "3ff68d8c022769fc4b4f675b060fc07b839455de463e709a9b494613e015d809",
-    "sizeBytes": 94389858,
-    "notes": "A colleague's chat message written just before yours is no longer lost; an update that stops carries on by itself; Nexora opened during an update says it is being installed.",
-    "publishedAt": "2026-10-08T05:21:10Z",
-    "sig": "MEYCIQCO2aKYg2y7/A12Rzd8SYpNCEZ/omMyRefRPJYsCtr97gIhAI6QExdxE0jDIltoU5ee+hyl4u0YZUZO6lG0UOk47wTj"
+    "version": "4.76.6",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.76.6/Nexora-Setup-4.76.6.exe",
+    "sha256": "f335b63ba695a8f2ddf11be685f89dbfd89e13cb24e8984476754335740ce604",
+    "sizeBytes": 94387600,
+    "notes": "Alt, H, then C opens Check for Updates again, even with a window open; Check for Updates says at once that it is asking.",
+    "publishedAt": "2026-10-08T05:39:57Z",
+    "sig": "MEYCIQDrhb+lMs+lqA4IhSukVcTVksdGMBJOsg6FDdIQiygI9QIhAPwfl3oSUNXAAWlpdahtrV68O1NzhBaH7GKlR7vmsEre"
   },
   "local": {
     "version": "3.66.7",
