@@ -1,12 +1,12 @@
 {
   "licensed": {
-    "version": "4.76.6",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.76.6/Nexora-Setup-4.76.6.exe",
-    "sha256": "f335b63ba695a8f2ddf11be685f89dbfd89e13cb24e8984476754335740ce604",
-    "sizeBytes": 94387600,
-    "notes": "Alt, H, then C opens Check for Updates again, even with a window open; Check for Updates says at once that it is asking.",
-    "publishedAt": "2026-10-08T05:39:57Z",
-    "sig": "MEYCIQDrhb+lMs+lqA4IhSukVcTVksdGMBJOsg6FDdIQiygI9QIhAPwfl3oSUNXAAWlpdahtrV68O1NzhBaH7GKlR7vmsEre"
+    "version": "4.77.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-app-updates/releases/download/v4.77.0/Nexora-Setup-4.77.0.exe",
+    "sha256": "bb555a33360407ba509058b85e09dd1cd3f7869d2a21690c99bb186bf6e91560",
+    "sizeBytes": 94400074,
+    "notes": "A window drawn again no longer blinks — only what changed changes; the cursor and scroll stay; every table boxed as in Nexora MSME ERP, the cell is the field",
+    "publishedAt": "2026-11-12T08:50:52Z",
+    "sig": "MEYCIQCROIc9qseY+pS5xxYqTVLc7YXNJISe2gbdHJrfBPj9EQIhAPfgLfBEtjRGmGXyhM9PhmmNeITvftxLty8NvFxHDc/K"
   },
   "local": {
     "version": "3.66.7",
